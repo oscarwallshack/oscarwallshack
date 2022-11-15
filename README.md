@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @oscarwallshack
 - 👀 I’m interested in Frontend Development
+- 💥 Recently, I started to publish my repositories
 - 🌱 I’m currently learning JavaScript
