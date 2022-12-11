@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @oscarwallshack
+- 👋 Hi, I’m Bartek
 - 👀 I’m interested in Frontend Development
-- 💥 Recently, I started to publish my repositories
 - :gem: Javascript
 - :gem: TypeScript
 - 🌱 I’m currently learning React 
