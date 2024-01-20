@@ -2,4 +2,4 @@
 - 👀 I’m interested in Frontend Development
 - :gem: Javascript
 - :gem: TypeScript
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning React and React Native
