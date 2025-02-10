@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Bartek
-- 👀 I’m interested in Frontend Development
-- :gem: Javascript
+- :gem: SQL
+- :gem: MSSQL
+- :gem: PHP
+- :gem: JavaScript
 - :gem: TypeScript
-- 🌱 I’m currently learning React and React Native
