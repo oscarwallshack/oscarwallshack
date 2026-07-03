@@ -1,5 +1,1 @@
-- :gem: SQL
-- :gem: MSSQL
-- :gem: PHP
-- :gem: JavaScript
-- :gem: TypeScript
+
